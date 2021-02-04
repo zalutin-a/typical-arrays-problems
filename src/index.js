@@ -9,4 +9,4 @@ exports.max = function max (array) {
 
 exports.avg = function avg (array) {
     return number = arguments.length && array.length ? array.reduce((result, elem)=>result+elem)/array.length : 0 ;
-}
+    }
